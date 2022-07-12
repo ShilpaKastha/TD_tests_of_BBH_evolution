@@ -1,7 +1,7 @@
 # Model systematics in time domain tests of binary black hole evolution
 **Shilpa Kastha<sup>1,2</sup>, Collin D. Capano<sup>1,2,3</sup>, Julian Westerweck<sup>1,2</sup>, Miriam Cabero<sup>4</sup>, Badri Krishnan<sup>1,2,5</sup>, Alex B. Nielsen<sup>6</sup>**
 
-<sub>1. [Albert-Einstein-Institut, Max-Planck-Institut for Gravitationsphysik, D-30167 Hannover, Germany](http://www.aei.mpg.de/obs-rel-cos)</sub><br />
+<sub>1. Albert-Einstein-Institut, Max-Planck-Institut for Gravitationsphysik, D-30167 Hannover, Germany</sub><br />
 <sub>2. Leibniz Universitat Hannover, D-30167 Hannover, Germany</sub><br />
 <sub>3. Department of Mathematics, University of Massachusetts, Dartmouth, MA 02747, USA </sub><br />
 <sub>4. Department of Physics and Astronomy, The University of British Columbia, Vancouver, BC V6T 1Z4, Canada </sub><br />
