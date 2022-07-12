@@ -1,1 +1,2 @@
-# TD_tests_of_BBH_evolution
+# Model systematics in time domain tests of binary black hole evolution
+#-----------------------------------------------------------------------
